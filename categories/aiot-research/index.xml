@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIoT Research on Jianfei Yang (Rocky)</title>
+    <link>https://marsyang.site/categories/aiot-research/</link>
+    <description>Recent content in AIoT Research on Jianfei Yang (Rocky)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marsyang.site/categories/aiot-research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>https://marsyang.site/publications/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsyang.site/publications/</guid>
+      <description>For a full list of publications, please visit my Google Scholar.
+  Book Chapters &amp;amp; Survey   Deep Learning and Transfer Learning for Device-free Human Activity Recognition: A Survey
+Jianfei Yang, Yuecong Xu, Haozhi Cao, Han Zou, Lihua Xie
+In Journal of Automation and Intelligence, Elsevier, 2023
+  Fusion of WiFi and IMU using Swarm Optimization for Indoor Localization
+He Huang, Jianfei Yang, Xu Fang, Lihua Xie</description>
+    </item>
+    
+  </channel>
+</rss>

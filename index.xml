@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Jianfei Yang on Jianfei Yang (Rocky)</title>
+    <link>https://marsyang.site/</link>
+    <description>Recent content in Dr. Jianfei Yang on Jianfei Yang (Rocky)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marsyang.site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Group</title>
+      <link>https://marsyang.site/group/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsyang.site/group/</guid>
+      <description>Hiring Ph.D.  I am hiring Ph.D. students and CSC visiting students regarding the following research topics:
+ Deep learning empowered AIoT sensing Transfer learning for data-efficient sensing Multimodal LLM for IoT  The candidates are expected to have solid backgrounds on machine learning, deep learning or [wireless sensing]. Please drop an email to me with the title &amp;ldquo;PhD Application + [Name]&amp;rdquo;. Only the qualified candidates will be contacted.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://marsyang.site/publications/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsyang.site/publications/</guid>
+      <description>For a full list of publications, please visit my Google Scholar.
+  Book Chapters &amp;amp; Survey   Deep Learning and Transfer Learning for Device-free Human Activity Recognition: A Survey
+Jianfei Yang, Yuecong Xu, Haozhi Cao, Han Zou, Lihua Xie
+In Journal of Automation and Intelligence, Elsevier, 2023
+  Fusion of WiFi and IMU using Swarm Optimization for Indoor Localization
+He Huang, Jianfei Yang, Xu Fang, Lihua Xie</description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>https://marsyang.site/award/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsyang.site/award/</guid>
+      <description>  I am keen on participating academic and industrial AI challenges to deal with real-world data problems.
+  Awards in Academia  First place, ICCV-21 Masked Face Recognition Challenge First place, IEEE CVPR 2019 UG2+ Challenge - Zero-shot Detection in Rain (Award: $60K) First place, PHI-Net Challenge by Pacific Earthquake Engineering Research Center, Los Angelos, USA [News] Third place, IEEE CVPR 2020 EmotionNet Challenge First place, ACM ICMI 2018 Emotion Recognition Challenge, Colorado, USA NTU Presidential Postdoctoral Fellowship Award (12/1000+) NTU EEE Best Thesis Award (2/400+)  Awards in Industrial Challenges  First place, WeChat Big Data Challenge - Multimodal Video Classification (Award: $60K) First place, Alibaba A-tech Challenge 2021 - Transaction Fraud Detection First place, DIGIX Global AI Challenge - Product Image Retrieval (Award: $35K) [News] First place, Xinye Cup 2021 - Intelligent Retail AI Solution (Award: $10K) First place, JD Global Data Challenge 2017 - Livestock face recognition (Award: $100K) [News] First place, HUAWEI Garbage Recognition Challenge (Award: $35K) [IEEE News] First place, Buildathon of Singapore by Ministry of Education Second place, Microsoft Imagine Cup 2017 (2/782) First place, China Mobile Internet of Things Hackathons (Award: $15K) Third place, National AI Challenge - Person Re-identification (Award: $35K) First place, Microsoft Beauty of Programming (BoP-16) Challenge by Microsoft Research Asia/IEEE (1/20000+) First place, Humanoid Robotics Hackathon by ALDEBARAN  Awards in Subject Competition  First Prize, National Mobile Internet Innovation Contest 2015 (China) First Prize, National Undergraduate IOT Design Contest 2014 by MOE (China)  </description>
+    </item>
+    
+    <item>
+      <title>Friends</title>
+      <link>https://marsyang.site/friends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsyang.site/friends/</guid>
+      <description>Seniors  I am honored to have seniors who guide me or lend me a hand selflessly.
+ Dr. Han Zou - Research Scientist, Meta Dr. Zhenghua Chen - PI, Lab Head, A*star Dr. Kexin Guo - Associate Prof, BUAA Dr. Chen Wang - Project Scientist, CMU Dr. Zuozhu Liu - Assistant Prof, ZJU-UIUC Dr. Chris Xiaoxuan Lu - Assistant Prof, University of Edinburgh Dr. Yancheng Yuan - Research Assistant Professor, PolyU Daisy Yue Ai - CEO, Look Capital    Juniors  I am very happy to help my smart juniors, and grow up with them.</description>
+    </item>
+    
+    <item>
+      <title>Patents</title>
+      <link>https://marsyang.site/patents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsyang.site/patents/</guid>
+      <description> US Patents  WO2020037313 - Device-Free Human Identification and Device-Free Gesture Recognition WO2019226910A1 - Unsupervised WiFi-Enabled Device-User Association for Personalized Location-based Service   Chinese Patents  CN109359539B - Attention Assessment Method and Device, Terminal Equipment and Computer Readable Storage Medium CN108344416A - WiFi-based Localization Method based on Cartographic Information Auto-Matching Target   Singapore Provisional Patent Applications  2022-338-01-SG - An AI-Enabled Fire Burn Recognition Approach For Fire Accident Analysis 2022-326-01-SG - A Unified AI-Enabled Structural Health Monitoring Framework  NTU Technical Disclosures  2022-093 - Human Respiration Sensing System based on WiFi Signals 2022-137 - A Localization Approach Based On Variational Inference Using IMU And WiFi RSS 2022-138 - Advanced Particle Swarm Optimization To Localization With IMU And WiFi Measurements, And The Development Of Sensing Platform  </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://marsyang.site/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsyang.site/research/</guid>
+      <description>Research Interests My Research mainly focuses on Artificial Intelligence of Things (AIoT), where the state-of-the-art AI models are proposed and implemented in the edge devices and enables everything interconnected. Broadly speaking, I study how AI models empower IoT-enabled edge devices to sense the environment (i.e. AIoT Sensing), how AI models are efficiently deployed in resource-restrained environments (i.e. Efficient AI), how multi-modal IoT data can be represented to support decision-making in large language models (i.</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://marsyang.site/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsyang.site/services/</guid>
+      <description> Professional Appointments  Assistant Professor, MAE/EEE, Nanyang Technological University, 2024-present Presidential Postdoctoral Fellow, PI, Nanyang Technological University, 2021-2023 Senior Research Engineer, BEARS, University of California, Berkeley, 2021-2022   Editor Service  Associate Editor, IEEE Transactions on Neural Networks and Learning Systems, 2024-present   Conference PC Member  The Conference on Neural Information Processing Systems (NeurIPS) 2022-2023 The Conference on Computer Vision and Pattern Recognition (CVPR) 2020-2024 International Conference on Machine Learning (ICML) 2022-2024 International Conference on Learning Representations (ICLR) 2024 European Conference on Computer Vision (ECCV) 2022 The International Conference on Computer Vision (ICCV) 2021-2024 AAAI Conference on Artificial Intelligence (AAAI) 2020-2024 Winter Conference on Applications of Computer Vision (WACV) 2021, 2022 IEEE Wireless Communications and Networking Conference (WCNC) 2021, 2022, 2023   Conference Organizer  IEEE CVPR 2022, 5th UG2+ Prize Challenge IJCAI 2021, 3nd International Workshop on &amp;ldquo;Deep Learning for Human Activity Recognition&amp;rdquo;   Journal Reviewer Service  Reviewer, IEEE Internet of Things Journal Reviewer, IEEE Wireless Communications Magazine Reviewer, IEEE Transactions on Cybernetics Reviewer, IEEE Transactions on Mobile Computing Reviewer, IEEE Transactions on Neural Networks and Learning Systems Reviewer, IEEE Transactions on Artificial Intelligence Reviewer, IEEE Transactions on Multimedia Reviewer, IEEE Transactions on Circuits and Systems for Video Technology Reviewer, IEEE Transactions on Geoscience and Remote Sensing Reviewer, IEEE Transactions on Vehicular Technology Reviewer, IEEE Transactions on Emerging Topics in Computational Intelligence Reviewer, IEEE Robotics and Automation Reviewer, IEEE Systems Journal Reviewer, IEEE Robotics and Automation Letters Reviewer, ACM Transactions on Spatial Algorithm and Systems, Pattern Recognition Reviewer, International Journal of Distributed Sensor Network Reviewer, Elsivier - Information Fusion Reviewer, Elsivier - Knowledge-based Systems Reviewer, Elsivier - Expert Systems with Applications Reviewer, Elsivier - Computer Vision and Image Understanding Reviewer, Elsivier - Digital Signal Processing Reviewer, Elsivier - Advanced Engineering Informatics Reviewer, Elsivier - Neurocomputing Reviewer, Elsivier - Energy and Buildings Reviewer, Hindawi - Wireless Communications and Mobile Computing  </description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://marsyang.site/template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsyang.site/template/</guid>
+      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

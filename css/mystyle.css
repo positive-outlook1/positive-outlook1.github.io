@@ -1,0 +1,23 @@
+.flex {
+  padding-right: 50px;
+}
+
+.flex-container {
+  display: flex;
+	flex-wrap: wrap;
+}
+
+.circular-img {
+  position: relative;
+  width: 260px;
+  height: 300px;
+  overflow: hidden;
+  border-radius: 5%;
+}
+
+.container-twocolumn { display: flex; align-items: baseline;}
+.column-2-1 { display: inline-block; width: 120px; white-space: normal; }
+.column-2-2 { display: inline-block; width: 900px; white-space: normal; }
+
+.row{ display: flex; clear: both; align-items: flex-start;}
+.col-md {display: inline-block; width: 50%; padding-right: 50px; white-space: normal;}

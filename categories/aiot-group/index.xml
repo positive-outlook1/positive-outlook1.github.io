@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIoT Group on Jianfei Yang (Rocky)</title>
+    <link>https://marsyang.site/categories/aiot-group/</link>
+    <description>Recent content in AIoT Group on Jianfei Yang (Rocky)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marsyang.site/categories/aiot-group/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Group</title>
+      <link>https://marsyang.site/group/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marsyang.site/group/</guid>
+      <description>Hiring Ph.D.  I am hiring Ph.D. students and CSC visiting students regarding the following research topics:
+ Deep learning empowered AIoT sensing Transfer learning for data-efficient sensing Multimodal LLM for IoT  The candidates are expected to have solid backgrounds on machine learning, deep learning or [wireless sensing]. Please drop an email to me with the title &amp;ldquo;PhD Application + [Name]&amp;rdquo;. Only the qualified candidates will be contacted.</description>
+    </item>
+    
+  </channel>
+</rss>
