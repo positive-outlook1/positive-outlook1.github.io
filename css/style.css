@@ -865,11 +865,9 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 /* List content */
 .list__item {
-	padding-bottom: 20px;
-	padding-bottom: 1.25rem;
-	margin-bottom: 20px;
-	margin-bottom: 1.25rem;
-	border-bottom: 1px solid #ebebeb;
+	width: 100%;
+	line-height: 1em;
+	margin-top: 1em;
 }
 
 .list__header {
