@@ -1188,6 +1188,7 @@ textarea {
 
 .thumbnail video {
   margin-top: 0.4em;
+  margin-left: 2em;
   border-radius: 5px;
   width: 100%;
   height: 100%;
@@ -1196,6 +1197,7 @@ textarea {
 h3 {
   font-size: 1em;
   line-height: 1.5em;
+  margin-left: 2em;
 }
 
 h3 a {
@@ -1208,6 +1210,7 @@ h3 a:hover {
 
 .publication {
   margin-bottom: 0.5em;
+  margin-left: 2em;
 }
 
 .publication p {
@@ -1219,6 +1222,7 @@ h3 a:hover {
 .project-description {
   width: 80%;
   float: left;
+  margin-left: 2em;
 }
 
 
