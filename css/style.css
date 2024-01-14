@@ -1218,6 +1218,8 @@ textarea {
 
 .thumbnail {
 /*  width: 21%;*/
+	display: inline-block;
+	height: 100%;
   width: 18%;
   float: left;
   margin-right: 2%;
@@ -1256,8 +1258,17 @@ h3 a:hover {
 
 .publication {
   margin-bottom: 0.5em;
-}
+	height: auto;
 
+}
+.publication::after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.publication img{
+	height: 100%;
+}
 .publication p {
   font-size: 1em;
   line-height: 1.5em;
