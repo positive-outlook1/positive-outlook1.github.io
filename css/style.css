@@ -1258,8 +1258,6 @@ h3 a:hover {
 
 .publication {
   margin-bottom: 0.5em;
-	height: auto;
-
 }
 .publication::after{
 	content: "";
