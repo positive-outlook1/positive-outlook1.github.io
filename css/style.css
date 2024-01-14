@@ -1179,6 +1179,40 @@ textarea {
   color: rgb(20, 110, 190);
 }
 
+
+/**************************************************/
+/* Gallery of 3 preview videos. */
+
+.previews {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 10px;
+	grid-auto-rows: minmax(100px, auto);
+	height: 12.5em;
+  }
+  
+  .previews video {
+	border-radius: 5px;
+  }
+  
+  .previews a:hover {
+	border: none;
+  }
+  
+  .preview1 {
+	grid-column: 1;
+	width: 100%;
+  }
+  .preview2 {
+	grid-column: 2;
+	width: 100%;
+  }
+  .preview3 {
+	grid-column: 3;
+	width: 100%;
+  }
+
+
 /**************************************************/
 /* Publication details (thumbnail media, title, and description). */
 
