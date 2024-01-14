@@ -313,13 +313,16 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
 <script>
 	let publication = document.getElementsByClassName("publication")
-	console.log(publication,"publication")
+	// console.log(publication,"publication")
 	for (let i = 0; i < publication.length; i++) {
 		let cH = publication[i].lastElementChild.offsetHeight
 		let a = publication[i].getElementsByClassName("thumbnail")
-		for (let j=0; j<a.length;j++) {
-			a[j].style.height = cH
+		if(a.length === 1) {
+			a[0].style.height = cH+"px"
+		} else {
+			a[1].style.height = cH+"px"
 		}
+
 	}
 </script>
 </body>
