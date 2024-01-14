@@ -1223,6 +1223,7 @@ textarea {
   width: 18%;
   float: left;
   margin-right: 2%;
+  margin-left: 2%;
 }
 
 .thumbnail:hover {
