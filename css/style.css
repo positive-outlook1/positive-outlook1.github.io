@@ -1223,7 +1223,7 @@ textarea {
   width: 18%;
   float: left;
   margin-right: 2%;
-  margin-left: 2%;
+  margin-left: 4%;
 }
 
 .thumbnail:hover {
@@ -1275,7 +1275,7 @@ h3 a:hover {
 }
 
 .project-description {
-  width: 80%;
+  width: 72%;
   float: left;
 }
 
