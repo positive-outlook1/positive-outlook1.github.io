@@ -865,7 +865,6 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 /* List content */
 .list__item {
-	align-items: center;
 	padding-bottom: 20px;
 	padding-bottom: 1.25rem;
 	margin-bottom: 20px;
@@ -1259,7 +1258,8 @@ h3 a:hover {
 }
 
 .publication {
-  margin-bottom: 0.5em;
+	align-items: center;
+	margin-bottom: 0.5em;
 }
 .publication::after{
 	content: "";
