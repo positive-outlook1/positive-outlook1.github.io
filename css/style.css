@@ -1261,6 +1261,7 @@ h3 a:hover {
 	display: flex;
 	align-items: center;
 	margin-bottom: 0.5em;
+	padding: 2em 0 2em 0
 }
 .publication::after{
 	content: "";
@@ -1271,8 +1272,9 @@ h3 a:hover {
 	height: 100%;
 }
 .publication p {
+  margin: 0 0 0rem;
   font-size: 1em;
-  line-height: 1.5em;
+  /* line-height: 1.5em; */
   color: #000000;
 }
 
