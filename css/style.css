@@ -43,7 +43,7 @@ html {
 
 body {
 	margin: 0;
-	font-family: Verdana,Tahoma,Arial,sans-serif;
+	font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
 	font-size: 16px;
 	/*font-size: .875rem;*/
 	line-height: 1.6;
