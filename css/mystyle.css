@@ -11,8 +11,8 @@
 
 .circular-img {
   position: relative;
-  width: 260px;
-  height: 300px;
+  width: 420px;
+  height: 420px;
   overflow: hidden;
   border-radius: 5%;
 }
