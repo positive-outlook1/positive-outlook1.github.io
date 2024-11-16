@@ -521,8 +521,10 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	padding: .625rem .9375rem;
 	font-weight: 700;
 	color: #fff;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 }
+
+a.menu__link {font-size: large;}
 
 .menu__link:hover {
 	color: #fff;
