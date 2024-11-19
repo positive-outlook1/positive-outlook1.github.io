@@ -524,7 +524,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	/* text-transform: uppercase; */
 }
 
-a.menu__link {font-size: large;}
+a.menu__link {font-size: larger;}
 
 .menu__link:hover {
 	color: #fff;
